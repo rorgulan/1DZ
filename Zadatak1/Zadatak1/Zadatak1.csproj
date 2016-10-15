@@ -44,8 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IIntegerList.cs" />
+    <Compile Include="IntegerList.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Program1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
