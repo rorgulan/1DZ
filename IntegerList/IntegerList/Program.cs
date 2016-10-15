@@ -5,12 +5,6 @@ namespace zadatak1
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            IntegerList listint = new IntegerList();
-            listint.ListExample(          
-        }
-      
         public interface IIntegerList
         {
             /// <summary >
@@ -110,7 +104,7 @@ namespace zadatak1
             public int IndexOf(int item)
             {
                 int index = Array.IndexOf(_internalStorage, item);
-                if(index>0 && index<_internalStorage.Length)
+                if (index > 0 && index < _internalStorage.Length)
                 {
                     return index;
                 }
@@ -122,14 +116,14 @@ namespace zadatak1
             public int Count { get; }
             public void Clear()
             {
-               for(int x=0;x<_internalStorage.Length;x++)
+                for (int x = 0; x < _internalStorage.Length; x++)
                 {
                     _internalStorage[x] = 0;
                 }
             }
             public bool Contains(int item)
             {
-              int index=  Array.IndexOf(_internalStorage, item);
+                int index = Array.IndexOf(_internalStorage, item);
                 if (index >= 0)
                 {
                     return true;
@@ -155,7 +149,18 @@ namespace zadatak1
                 Console.WriteLine(listOfIntegers.Count); // 0
             }
 
+            static void Main(string[] args)
+            {
+                IntegerList listint = new IntegerList();
+                listint.ListExample;
+            }
         }
+
+     
+      
+       
+
+      
 
 
     }
