@@ -1,6 +1,0 @@
-C:\Users\Renato Orgulan\Desktop\C#\dz1\IntegerList\IntegerList\bin\Debug\IntegerList.exe.config
-C:\Users\Renato Orgulan\Desktop\C#\dz1\IntegerList\IntegerList\bin\Debug\IntegerList.exe
-C:\Users\Renato Orgulan\Desktop\C#\dz1\IntegerList\IntegerList\bin\Debug\IntegerList.pdb
-C:\Users\Renato Orgulan\Desktop\C#\dz1\IntegerList\IntegerList\obj\Debug\IntegerList.csprojResolveAssemblyReference.cache
-C:\Users\Renato Orgulan\Desktop\C#\dz1\IntegerList\IntegerList\obj\Debug\IntegerList.exe
-C:\Users\Renato Orgulan\Desktop\C#\dz1\IntegerList\IntegerList\obj\Debug\IntegerList.pdb
