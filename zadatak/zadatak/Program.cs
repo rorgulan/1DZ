@@ -124,30 +124,7 @@ namespace zadatak
                 }
             }
         }
-            /*
-            if (_internalStorage[_internalStorage.Length - 1] != 0)
-            {
-                int[] helper = _internalStorage;
-                _internalStorage = new int[_internalStorage.Length * 2];
-                for (int i = 0; i < helper.Length; i++)
-                {
-                    _internalStorage[i] = helper[i];
-                }
-                _internalStorage[helper.Length] = item;
-            }
-            else
-            {
-                for (int i = 0; i < _internalStorage.Length; i++)
-                {
-                    if (_internalStorage[i] == 0)
-                    {
-                        _internalStorage[i] = item;
-                        break;
-                    }
-                }
-            }
-        }
-        */
+            
     public bool RemoveAt(int item)
     {
             if (item<0 || item >= _internalStorage.Length || _internalStorage[item]==0)
