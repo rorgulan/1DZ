@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak1", "zadatak\zadatak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak2", "..\zadatak2\zadatak2.csproj", "{090FA792-D0EA-4544-8AC7-B51F52B9DEC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak3", "zadatak3\zadatak3.csproj", "{87BF550F-8A86-4958-AF8E-06A651BE4044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{090FA792-D0EA-4544-8AC7-B51F52B9DEC9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{090FA792-D0EA-4544-8AC7-B51F52B9DEC9}.Release|x86.ActiveCfg = Release|Any CPU
 		{090FA792-D0EA-4544-8AC7-B51F52B9DEC9}.Release|x86.Build.0 = Release|Any CPU
+		{87BF550F-8A86-4958-AF8E-06A651BE4044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BF550F-8A86-4958-AF8E-06A651BE4044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BF550F-8A86-4958-AF8E-06A651BE4044}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{87BF550F-8A86-4958-AF8E-06A651BE4044}.Debug|x86.Build.0 = Debug|Any CPU
+		{87BF550F-8A86-4958-AF8E-06A651BE4044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BF550F-8A86-4958-AF8E-06A651BE4044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BF550F-8A86-4958-AF8E-06A651BE4044}.Release|x86.ActiveCfg = Release|Any CPU
+		{87BF550F-8A86-4958-AF8E-06A651BE4044}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
